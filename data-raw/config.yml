@@ -521,9 +521,9 @@ default:
             - size
             - sort
             - type_entite_hydro
-          station:
-            path: chronique
-            fields:
+        station:
+          path: chronique
+          fields:
             - bbox
             - code_banque_reference
             - code_bassin
